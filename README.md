@@ -11,7 +11,7 @@
   - 🌱 I’m currently studying Software Engineering at FMU 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/564x/b3/b1/31/b3b1313e2c27a0b9ae361c1b86b36012.jpg">
+  <img align="center" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
 </p>
 
 
