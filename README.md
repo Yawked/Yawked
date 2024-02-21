@@ -11,7 +11,7 @@
   - 🌱 I’m currently studying Software Engineering at FMU 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
+  <img align="center" src="https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif">
 </p>
 
 
@@ -55,7 +55,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/4a/d1/31/4ad131960c66f47c11154ae3d3fd668c.gif" alt="Imagem">
+  <img align="center" src="https://i.pinimg.com/originals/8d/86/42/8d8642148830fc5c69a21dc16632afbd.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
@@ -64,7 +64,7 @@
     <h3>Programming Languages</h3>
 
 <p align="left">
-  <img align="center" src="https://i.pinimg.com/564x/27/27/9c/27279c4d840e36a6cba09bce77289589.jpg">
+  <img align="center" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 </p>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
