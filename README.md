@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 28 years old, currently living in Brazil. I have fluency in English and have experience with Brity RPA By Samsung SDS Latin America, UiPath, Power Automate, Automation Anywhere, Python,  Java, Javascript and C#. My recent achievement includes migrating from Perl to Python for a program called Asgard at USP-SP, which is used for genetic mapping.
+  - 💬 I am 28 years old, currently living in Brazil. I have fluency in English and have experience with Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python,  Java, Javascript and C#. My recent achievement includes migrating from Perl to Python for a program called Asgard at USP-SP, which is used for genetic mapping.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
