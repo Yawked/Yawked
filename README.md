@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Olá, me chamo Adriano e sou um desenvolvedor de RPA e programador Fullstack.
+  Olá, me chamo Adriano Brandão e sou um desenvolvedor de RPA e programador Fullstack. Comecei minha carreira em 2019 como professor de cursos livres especializado em programação, dei aula nas maiores franquias de cursos nacionais como Prepara cursos e Evolute. Também fui professor de Inglês em ambas as escolas.
 
-  - Atualmente, sou estudante de engenharia de software na FMU, no segundo semestre.
+  - Atualmente, sou estudante de engenharia de software na FMU, no segundo semestre. 
 <!-- GIF1 -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif">
@@ -21,9 +21,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Eu tenho 28 anos, atualmente moro no Brasil. Possuo fluência em inglês e tenho experiência com Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python, Java, Javascript e C#. Minha conquista recente inclui a migração de Perl para Python em um programa chamado Asgard na USP-SP, que é utilizado para mapeamento genético e metabólico.
+  - 💬 Eu tenho 28 anos, atualmente moro no Brasil. Possuo bom  inglês e tenho experiência com Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python, Java, Javascript e C#. Minha conquista recente inclui a migração de Perl para Python em um programa chamado Asgard na USP-SP, que é utilizado para mapeamento genético e metabólico.
 
-  - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar videogames! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
+  - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar videogames! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. Minha curiosidade me fez aprender tudo que sei hoje. \o/
 </details>
 
 <!-- Links -->
