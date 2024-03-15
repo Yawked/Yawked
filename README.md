@@ -19,7 +19,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Um pouco mais sobre mim</summary>
 
   - 💬 Eu tenho 28 anos, atualmente moro no Brasil. Possuo bom  inglês e tenho experiência com Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python, Java, Javascript e C#. Minha conquista recente inclui a migração de Perl para Python em um programa chamado Asgard na USP-SP, que é utilizado para mapeamento genético e metabólico.
 
