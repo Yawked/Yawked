@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Adriano! A passionate software engineer student from Brazil.
+  Olá, me chamo Adriano e sou um desenvolvedor de RPA e programador Fullstack.
 
-  - 🌱 I’m currently studying Software Engineering at FMU 
+  - Atualmente, sou estudante de engenharia de software na FMU, no segundo semestre.
 <!-- GIF1 -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif">
@@ -21,9 +21,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 28 years old, currently living in Brazil. I have fluency in English and have experience with Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python,  Java, Javascript and C#. My recent achievement includes migrating from Perl to Python for a program called Asgard at USP-SP, which is used for genetic mapping.
+  - 💬 Eu tenho 28 anos, atualmente moro no Brasil. Possuo fluência em inglês e tenho experiência com Brity RPA By Samsung SDS Latin America, UiPath, Blueprism, Power Automate, Automation Anywhere, Python, Java, Javascript e C#. Minha conquista recente inclui a migração de Perl para Python em um programa chamado Asgard na USP-SP, que é utilizado para mapeamento genético e metabólico.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar videogames! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
