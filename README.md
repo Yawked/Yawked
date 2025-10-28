@@ -25,7 +25,22 @@ Atualmente curso Engenharia de Software pela FMU e possuo certificação Brity R
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary>
 
-  - 💬 Eu tenho 28 anos, atualmente moro no Brasil. Possuo bom  inglês e tenho experiência com Brity RPA, que é um RPA próprio da Samsung SDS Latin America, na qual sou certificado por automatizar processos de empresas como Visolab, TMV e AppleIt. Também possuo uma bagagem em UiPath, Blueprism, Power Automate, Automation Anywhere, linguagens como Python, Java, Javascript e C#. Minha conquista recente inclui a migração de Perl para Python em um programa chamado Asgard na USP-SP, que é utilizado para mapeamento genético e metabólico. Meu nome estará na documentação desse maravilhoso projeto.
+  - Sou Desenvolvedor de Software com experiência em automação de processos (RPA) e atualmente em transição para a área de Cibersegurança, com foco em Segurança Ofensiva, Red Team e Pentest.
+Desde 2023, atuo com C# .NET, SQL e automação corporativa, desenvolvendo soluções escaláveis, seguras e de alto desempenho.
+
+Minha base em desenvolvimento me permite compreender a segurança de dentro do código, aplicando técnicas de ethical hacking, engenharia reversa e testes de invasão em ambientes controlados.
+
+⚔️ Áreas de interesse
+
+Segurança Ofensiva (Offensive Security)
+
+Red Team e Pentest (Web, Mobile e Infraestrutura)
+
+Análise de vulnerabilidades e Bug Bounty
+
+Automação de testes de segurança
+
+Desenvolvimento
 
   - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar videogames! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. Minha curiosidade me fez aprender tudo que sei hoje. \o/
 </details>
