@@ -51,7 +51,14 @@ Meu objetivo é atuar como Analista de Cibersegurança, ajudando empresas e pess
 
 ### Activities
 
-![Yawked's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yawked&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yawked&show_icons=true&theme=radical" alt="Yawked's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yawked&theme=radical" alt="Yawked's GitHub streak stats" />
+</p>
 
 <!-- Portfolio -->
 ## Portfolio:
