@@ -25,22 +25,16 @@ Atualmente curso Engenharia de Software pela FMU e possuo certificação Brity R
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary>
 
-  - Sou Desenvolvedor de Software com experiência em automação de processos (RPA) e atualmente em transição para a área de Cibersegurança, com foco em Segurança Ofensiva, Red Team e Pentest.
-Desde 2023, atuo com C# .NET, SQL e automação corporativa, desenvolvendo soluções escaláveis, seguras e de alto desempenho.
+  - Sou movido pela curiosidade e pela vontade constante de entender como as coisas funcionam — e como podem ser exploradas ou protegidas.
+Minha jornada começou no desenvolvimento de software e automação de processos (RPA), onde aprendi a pensar de forma lógica, otimizar sistemas e construir soluções escaláveis.
+Com o tempo, descobri que a mesma lógica usada para criar também pode ser aplicada para testar limites, identificar vulnerabilidades e fortalecer sistemas, o que me levou naturalmente ao universo da Cibersegurança.
 
-Minha base em desenvolvimento me permite compreender a segurança de dentro do código, aplicando técnicas de ethical hacking, engenharia reversa e testes de invasão em ambientes controlados.
+Hoje, dedico meus estudos à Segurança Ofensiva, Red Team e Pentest, combinando meu conhecimento em C#, .NET, SQL e automação com ferramentas como Nmap, Wireshark, Burp Suite, OWASP ZAP, Metasploit e Hydra.
+Acredito que entender o código e o comportamento interno das aplicações é o primeiro passo para protegê-las de verdade.
 
-⚔️ Áreas de interesse
+Meu objetivo é atuar como Analista de Cibersegurança, ajudando empresas e pessoas a se tornarem mais seguras — unindo o olhar analítico de um desenvolvedor à mentalidade estratégica de um pentester.
 
-Segurança Ofensiva (Offensive Security)
-
-Red Team e Pentest (Web, Mobile e Infraestrutura)
-
-Análise de vulnerabilidades e Bug Bounty
-
-Automação de testes de segurança
-
-Desenvolvimento
+“Criar é poder. Proteger o que criamos é responsabilidade.”
 
   - ⚡ Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar videogames! Eu acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. Minha curiosidade me fez aprender tudo que sei hoje. \o/
 </details>
