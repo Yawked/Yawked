@@ -6,8 +6,13 @@
 
 <!-- Presentation -->
 <p>
-  Olá, me chamo Adriano Brandão e sou um engenheiro de software, analista de Cibersegurança e programador Fullstack. Comecei minha carreira em 2019 como professor de cursos livres especializado em programação, dei aula nas maiores franquias de cursos nacionais como Prepara cursos e Evolute. Também fui professor de Inglês em ambas as escolas. Com dois anos focados em Front-End e Back-End, sou um engenheiro de software júnior.
-  - Atualmente, sou estudante de engenharia de software na FMU, no segundo semestre. 
+Sou Desenvolvedor de Software com foco em automação de processos (RPA) e atualmente em transição para a área de Cibersegurança, com ênfase em Segurança Ofensiva, Red Team e Pentest.
+
+Tenho experiência com C#, .NET e SQL, além de automações corporativas utilizando Brity RPA (Samsung), Sydle One, JavaScript, Java, VBA e Python.
+
+No campo da segurança, aplico meus conhecimentos técnicos no uso de ferramentas como Nmap, Wireshark, Burp Suite, OWASP ZAP, Hydra, Nikto e Metasploit, voltadas à análise de vulnerabilidades, testes de invasão e segurança de aplicações web e mobile.
+
+Atualmente curso Engenharia de Software pela FMU e possuo certificação Brity RPA Developer (Samsung SDS). Busco oportunidades para atuar na área de Cibersegurança, contribuindo com um olhar analítico e experiência prática em desenvolvimento seguro e ofensivo.
 <!-- GIF1 -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif">
