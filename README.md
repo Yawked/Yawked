@@ -6,13 +6,11 @@
 
 <!-- Presentation -->
 <p>
-Sou Desenvolvedor de Software com foco em automação de processos (RPA) e atualmente em transição para a área de Cibersegurança, com ênfase em Segurança Ofensiva, Red Team e Pentest.
+Sou Desenvolvedor de Software com experiência em automação de processos e desenvolvimento de aplicações escaláveis, utilizando C#, .NET, Java, SQL, JavaScript, C++, Python e VBA. Atuo no design, integração e otimização de sistemas corporativos, com foco em performance, segurança e eficiência.
 
-Tenho experiência com C#, .NET e SQL, além de automações corporativas utilizando Brity RPA (Samsung), Sydle One, JavaScript, Java, VBA e Python.
+Tenho sólida vivência no desenvolvimento de soluções automatizadas com Microsoft Office Interop, Brity RPA (Samsung SDS) e Sydle One, além de integração de APIs, análise de dados e manutenção de pipelines automatizados.
 
-No campo da segurança, aplico meus conhecimentos técnicos no uso de ferramentas como Nmap, Wireshark, Burp Suite, OWASP ZAP, Hydra, Nikto e Metasploit, voltadas à análise de vulnerabilidades, testes de invasão e segurança de aplicações web e mobile.
-
-Atualmente curso Engenharia de Software pela FMU e possuo certificação Brity RPA Developer (Samsung SDS). Busco oportunidades para atuar na área de Cibersegurança, contribuindo com um olhar analítico e experiência prática em desenvolvimento seguro e ofensivo.
+Minha abordagem une engenharia de software moderna, boas práticas de código (SOLID, Clean Code) e visão voltada à confiabilidade e escalabilidade. Busco sempre a melhoria contínua e a criação de soluções robustas que simplifiquem processos complexos.
 <!-- GIF1 -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/28/cd/b7/28cdb75b1cb04ffbadb7c639609e21ba.gif">
